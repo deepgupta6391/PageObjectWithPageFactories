@@ -1,0 +1,21 @@
+12/05/2020 19:58:48 devpinoyLogger Chrome Launched !!!
+12/05/2020 19:59:30 devpinoyLogger Clcking on an element :[[ChromeDriver: chrome on WINDOWS (7bb64e568df53a20a2e23717b4c5ecc5)] -> css selector: #header-account-menu]
+12/05/2020 19:59:30 devpinoyLogger Clcking on an element :[[ChromeDriver: chrome on WINDOWS (7bb64e568df53a20a2e23717b4c5ecc5)] -> css selector: #account-signin]
+12/05/2020 19:59:31 devpinoyLogger Typing in : [[ChromeDriver: chrome on WINDOWS (7bb64e568df53a20a2e23717b4c5ecc5)] -> css selector: #gss-signin-email] entered value as :jitengupta271@gmail.com
+12/05/2020 19:59:31 devpinoyLogger Typing in : [[ChromeDriver: chrome on WINDOWS (7bb64e568df53a20a2e23717b4c5ecc5)] -> css selector: #gss-signin-password] entered value as :Honey@1234
+12/05/2020 19:59:33 devpinoyLogger Clcking on an element :[[ChromeDriver: chrome on WINDOWS (7bb64e568df53a20a2e23717b4c5ecc5)] -> css selector: #gss-signin-submit]
+12/05/2020 19:59:44 devpinoyLogger Chrome Launched !!!
+12/05/2020 19:59:52 devpinoyLogger Clcking on an element :[[ChromeDriver: chrome on WINDOWS (6e82e6532f5cf9e7b5c244fcbe32460c)] -> css selector: #tab-flight-tab-hp]
+12/05/2020 19:59:53 devpinoyLogger Typing in : [[ChromeDriver: chrome on WINDOWS (6e82e6532f5cf9e7b5c244fcbe32460c)] -> css selector: #flight-origin-hp-flight] entered value as :Delhi (DEL-Indira Gandhi Intl.)
+12/05/2020 19:59:54 devpinoyLogger Typing in : [[ChromeDriver: chrome on WINDOWS (6e82e6532f5cf9e7b5c244fcbe32460c)] -> css selector: #flight-destination-hp-flight] entered value as :Bengaluru (BLR-Kempegowda Intl.)
+12/05/2020 19:59:55 devpinoyLogger Typing in : [[ChromeDriver: chrome on WINDOWS (6e82e6532f5cf9e7b5c244fcbe32460c)] -> css selector: #flight-departing-hp-flight] entered value as :1/10/20
+12/05/2020 19:59:55 devpinoyLogger Typing in : [[ChromeDriver: chrome on WINDOWS (6e82e6532f5cf9e7b5c244fcbe32460c)] -> css selector: #flight-returning-hp-flight] entered value as :1/11/20
+12/05/2020 19:59:55 devpinoyLogger Clcking on an element :[[ChromeDriver: chrome on WINDOWS (6e82e6532f5cf9e7b5c244fcbe32460c)] -> css selector: #traveler-selector-hp-flight]
+12/05/2020 19:59:55 devpinoyLogger Clcking on an element :[[ChromeDriver: chrome on WINDOWS (6e82e6532f5cf9e7b5c244fcbe32460c)] -> css selector: .traveler-selector-sinlge-room-data.traveler-selector-room-data>div:first-child>div:nth-child(4)]
+12/05/2020 19:59:55 devpinoyLogger Clcking on an element :[[ChromeDriver: chrome on WINDOWS (6e82e6532f5cf9e7b5c244fcbe32460c)] -> css selector: .traveler-selector-sinlge-room-data.traveler-selector-room-data>div:first-child>div:nth-child(4)]
+12/05/2020 19:59:56 devpinoyLogger Clcking on an element :[[ChromeDriver: chrome on WINDOWS (6e82e6532f5cf9e7b5c244fcbe32460c)] -> css selector: .traveler-selector-sinlge-room-data.traveler-selector-room-data>div:nth-child(2)>div>div:nth-child(4)]
+12/05/2020 19:59:56 devpinoyLogger Clcking on an element :[[ChromeDriver: chrome on WINDOWS (6e82e6532f5cf9e7b5c244fcbe32460c)] -> css selector: .traveler-selector-sinlge-room-data.traveler-selector-room-data>div:nth-child(2)>div>div:nth-child(4)]
+12/05/2020 19:59:56 devpinoyLogger Typing in : [[ChromeDriver: chrome on WINDOWS (6e82e6532f5cf9e7b5c244fcbe32460c)] -> css selector: .cols-nested.children-data.gcw-toggles-fields.available-for-flights>label>select[id^='flight-age-select-1-hp-flight']] entered value as :5.0
+12/05/2020 19:59:56 devpinoyLogger Typing in : [[ChromeDriver: chrome on WINDOWS (6e82e6532f5cf9e7b5c244fcbe32460c)] -> css selector: .cols-nested.children-data.gcw-toggles-fields.available-for-flights>label>select[id^='flight-age-select-2-hp-flight']] entered value as :7.0
+12/05/2020 19:59:56 devpinoyLogger Clcking on an element :[[ChromeDriver: chrome on WINDOWS (6e82e6532f5cf9e7b5c244fcbe32460c)] -> css selector: #traveler-selector-hp-flight]
+12/05/2020 20:00:10 devpinoyLogger Clcking on an element :Proxy element for: AjaxElementLocator 'By.cssSelector: #gcw-flights-form-hp-flight>div.cols-nested.ab25184-submit>label>button.btn-primary.btn-action.gcw-submit'
