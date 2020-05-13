@@ -108,13 +108,13 @@ public class CustomListeners extends Page implements ITestListener, ISuiteListen
 		
 		try {
 			messageBody = "http://" + InetAddress.getLocalHost().getHostAddress()
-					+ ":8080/job/PageObjectModel1/Extent_20Report/";
+					+ ":8080/job/LiveProject-PageObjectWithPageFactories/Extent_20Report/";
 		} catch (UnknownHostException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
-	
+
 		try {
 			mail.sendMail(TestConfig.server, TestConfig.from, TestConfig.to, TestConfig.subject, messageBody);
 		} catch (AddressException e) {
